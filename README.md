@@ -36,15 +36,11 @@ npm install
 ```
 npm start
 ```
-
+```
 L'API sera accessible à [http://localhost:3010](http://localhost:3100)
 
 ```
 
-## ✍️ Auteur
+### ✍️ Auteur
 
-Projet réalisé par 
-- [Ehya-Ag](https://github.com/Ehya-Ag)
-- Mamoudou Ba
-- Uthmane Ly
-- Abda Demba
+[ABDARAHMANE IBRAHIME DEMBA](https://github.com/Abdarahmane)
